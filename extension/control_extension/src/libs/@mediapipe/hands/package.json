@@ -1,0 +1,60 @@
+{
+  "_args": [
+    [
+      "@mediapipe/hands@0.4.1635986972",
+      "C:\\FRONTEND_C\\browser-controller\\extension\\control_extension"
+    ]
+  ],
+  "_from": "@mediapipe/hands@0.4.1635986972",
+  "_id": "@mediapipe/hands@0.4.1635986972",
+  "_inBundle": false,
+  "_integrity": "sha512-xVsoT7beiY9glBAHtcEBkfYO1eDMMzmU0U3wOYEy+sphu5y4Lx4Eg9k1qR+IsYYr1CDx+hYQH3YMVXm9D68+8Q==",
+  "_location": "/@mediapipe/hands",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@mediapipe/hands@0.4.1635986972",
+    "name": "@mediapipe/hands",
+    "escapedName": "@mediapipe%2fhands",
+    "scope": "@mediapipe",
+    "rawSpec": "0.4.1635986972",
+    "saveSpec": null,
+    "fetchSpec": "0.4.1635986972"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@mediapipe/hands/-/hands-0.4.1635986972.tgz",
+  "_spec": "0.4.1635986972",
+  "_where": "C:\\FRONTEND_C\\browser-controller\\extension\\control_extension",
+  "author": {
+    "name": "mhays@google.com"
+  },
+  "browser": {
+    "node-fetch": false,
+    "util": false,
+    "crypto": false
+  },
+  "dependencies": {},
+  "description": "Mediapipe Hands Solution",
+  "devDependencies": {},
+  "homepage": "https://google.github.io/mediapipe/solutions/hands",
+  "jsdelivr": "hands.js",
+  "keywords": [
+    "AR",
+    "ML",
+    "Augmented"
+  ],
+  "license": "Apache-2.0",
+  "main": "hands.js",
+  "module": "hands.js",
+  "name": "@mediapipe/hands",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "sideEffects": [],
+  "types": "index.d.ts",
+  "unpkg": "hands.js",
+  "version": "0.4.1635986972"
+}
